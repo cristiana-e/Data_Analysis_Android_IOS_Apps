@@ -3,3 +3,4 @@ node_modules/
 Apple_Apps_Analysis.ipynb
 Basics.ipynb
 appleStore_description.csv
+.gitignore
