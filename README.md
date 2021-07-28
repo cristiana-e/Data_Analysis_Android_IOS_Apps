@@ -2,7 +2,7 @@
 
 Este é um projeto de estudo realizado na trilha de Data Science in Python da plataforma [Dataquest](https://www.dataquest.io/)!
 
-O acesso ao curso se dá graças a bolsa de estudos oferecida numa parceria pelo programa **Dataquest & [Ai Inclusive](https://pt.ai-inclusive.org/)** :heart:, portanto eu gostaria de agradecer a todos os envolvidos nessa parceria pela oportunidade de que deram de estudar algo que eu **amo**! Esse curso só me fez ter certeza de que dados e python são minhas grandes paixões!
+O acesso ao curso se dá graças a bolsa de estudos oferecida numa parceria pelo programa **[Ai Inclusive](https://pt.ai-inclusive.org/) & Dataquest Scholarship** :heart:, portanto eu gostaria de agradecer a todos os envolvidos nessa parceria pela oportunidade de que deram de estudar algo que eu **amo**! Esse curso só me fez ter certeza de que dados e python são minhas grandes paixões!
 
 Muito obrigada! :heart_decoration:
 
